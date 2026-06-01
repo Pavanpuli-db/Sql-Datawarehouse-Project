@@ -50,6 +50,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 * Star Schema Modeling
 * Git & GitHub
 * Power BI
+---
+  ## 📜 License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project with proper attribution.
 
 ---
 
@@ -62,3 +66,7 @@ This repository showcases my hands-on experience in building modern data solutio
 📧 Email: [pavanpuli95@gmail.com](mailto:pavanpuli95@gmail.com)
 💼 LinkedIn: linkedin.com/in/pavanpuli
 💻 GitHub: github.com/pavanpuli
+
+
+---
+
